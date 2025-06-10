@@ -20,10 +20,10 @@
 
 ### 👨‍🎓 About Me
 
-- 🎓 CSE Student (Final Year) @ Green University of Bangladesh  
+- 🎓 CSE Student (Final Year) @ Green University of Bangladesh
+- 🔍 Actively Seeking: **AI/ML Internship or Full-time Role**  
 - 🔬 Researching:   
   **Real-time Computer Vision-Based Deep Neural Network Model for Continuous Bangla Sign Language Gesture Recognition Using Multiple Linguistic Features Analysis**  
-- 🔍 Actively Seeking: **AI/ML Internship or Full-time Role**  
 - 💬 Passionate about: Python, C++, Java, JavaScript, AI, NLP, Computer Vision
 
 ---
