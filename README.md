@@ -21,11 +21,11 @@
 ### 👨‍🎓 About Me
 
 - 🎓 CSE Student (Final Year) @ Green University of Bangladesh  
-- 🔬 Researching: **Real-time Bangla Sign Language Recognition**
-- 🔍 Actively Seeking: **AI/ML Internship or Full-time Role**
-- 💬 I love working with:
-  - Python, C++, Java, JS
-  - AI, NLP, CV, Deep Learning
+- 🔬 Researching:  
+  <img src="https://raw.githubusercontent.com/rahuldkjain/Readme-Profile-Stats/master/icons/neural_network.svg" width="20" />  
+  **Real-time Computer Vision-Based Deep Neural Network Model for Continuous Bangla Sign Language Gesture Recognition Using Multiple Linguistic Features Analysis**  
+- 🔍 Actively Seeking: **AI/ML Internship or Full-time Role**  
+- 💬 Passionate about: Python, C++, Java, JavaScript, AI, NLP, Computer Vision
 
 ---
 
@@ -37,13 +37,11 @@
 
 ---
 
-### 🔥 Projects
+### 🚧 Now Working On
 
-- 🗣️ Voice-Controlled Desktop Assistant using Python + BERT + NLP  
-- 💬 Chatbot for Intent Recognition (TensorFlow + Custom JSON NLP)  
-- 🎮 Flappy Bird, Tic Tac Toe (Java)  
-- 🧱 Brick Breaker (Assembly)  
-- 📘 Periodic Table Info App (C)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F&background=FFFFFF00&width=450&lines=Implementing+an+AI-powered+voice+assistant;Optimizing+sign+language+recognition+models;Contributing+to+open+source" />
+</p>
 
 ---
 
